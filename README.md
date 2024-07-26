@@ -1,12 +1,12 @@
 <h2 align="center"> Sobre mim! </h2>
 
-<p align="center"> Meu nome é Carlos Eduardo, tenho 18 anos e curso Geologia na Universidade Federal do Ceará (UFC). Durante a pandemia, surgiu o interesse em aprender programação e entender como funciona, entretanto, apenas a partir do final de 2023 que eu comecei a realmente me dedicar em aprender. Atualmente, minha ambição é <strong> me tornar um desenvolver fullstack </strong>(por enquanto mais focado em front-end) e utilizar da programação para trabalhar em conjunto a diversos projetos envolvendo minhas áreas de interesse. </p>
+<p align="center"> Meu nome é Carlos Eduardo, tenho 19 anos e curso Geologia na Universidade Federal do Ceará (UFC), atualmente no terceiro semestre. Tenho interesse pela programação fullstack, mas por enquanto estou focado em estudar e praticar python para análise de dados </p>
 
 <h2 align="center"> Mais sobre mim: </h2>
 
 <ul>
   <li> Amo programação, astronomia, geologia, música e idiomas! </li>
-  <li> Atualmente (fev/2024) estudando React e aprimorando css e javascript </li>
+  <li> Atualmente estudando python, análise de dados com pandas </li>
   <li> Aqui posto meus projetos de treinamento e autorais </li>
 </ul>
 
